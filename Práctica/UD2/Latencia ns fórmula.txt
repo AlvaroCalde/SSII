@@ -1,0 +1,3 @@
+Latencia ns= CL (Posición)
+            ________________    *1000
+            Frecuencia Real/2 
